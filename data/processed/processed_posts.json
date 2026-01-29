@@ -1,0 +1,92 @@
+[
+    {
+        "text": "In 20 years in QA and Engineering Leadership, I've seen an interesting cycle: a powerful tool emerges, excitement spikes, then QA are quickly replaced by tools with no real strategy or understanding of how to use them to their potential, and quality degrades.\n\nBoth automation and AI expand our reach, but neither replaces what a true QA professional brings:\n\n-Curiosity that asks the unexpected questions\n-Deep product intuition built over time\n-Empathy for the user's reality\n-Risk analysis that understands impact\n-Systems thinking which includes integrations and interoperability\n-The ability to aggregate all of this into an effective test strategy\n\nAI and automation are accelerators. They amplify talent and skills, but do not replace judgment, context, or strategic thinking.\n\nEffective QA is not AI instead of people. It's AI plus people who know how to think.",
+        "engagement": 339,
+        "line_count": 14,
+        "language": "English",
+        "tags": [
+            "Quality Assurance",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "One of the BIGGEST MISTAKES I've made and see every week from many CTOs, Dev Managers, and QA lead is assuming everything should be automated.\n\nTest strategy isn't static; it's a living thing that evolves with the product, the user, and the tester.\n\nOver-automating locks you into outdated assumptions (don't even get me started on outdated selectors and objects). It creates staleness; things look 'covered' but aren't truly tested.\n\nWhen you try to automate everything, you don't just create tests; you create testing debt:\n\n- Maintenance overhead\n- Extra documentation\n- More complexity to understand\n\nIn the 'AI low hanging fruit abundance era', THOUGHTFUL TESTING is more critical than ever. You have to decide what to test and how.\n\nThoughtless test automation is just NOISE.",
+        "engagement": 21,
+        "line_count": 15,
+        "language": "English",
+        "tags": [
+            "Quality Assurance",
+            "Automation"
+        ]
+    },
+    {
+        "text": "Why QA Is Still Essential?\n\nI hear a lot of people say: 'AI will replace QA soon.'\nHere's the truth:\nQuality cannot be automated, only testing can.\nAI can generate cases, speed up execution, and detect patterns...\nbut it still can't replace:\n\ud83d\udd39 critical thinking\n\ud83d\udd39 user empathy\n\ud83d\udd39 business understanding\n\ud83d\udd39 validation of AI-generated results\n\ud83d\udd39 handling unexpected edge cases\n\ud83d\udd39 ensuring trust, reliability & security\nIn today's world of complex apps, API ecosystems, microservices, and AI-driven features...\nQA matters more than ever.\nThe future isn't 'No QA.'\nThe future is:\n\u2714 AI assisted QA\n\u2714 Automation focused QA\n\u2714 Data driven QA\n\u2714 Quality engineering integrated into CI/CD\n\nQA isn't disappearing.\nQA is evolving into a higher-impact role.\nAnd I'm excited to be part of that transformation.",
+        "engagement": 318,
+        "line_count": 25,
+        "language": "English",
+        "tags": [
+            "Quality Assurance",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "AI in QA: What We Should Be Questioning Instead\n\nThe industry keeps talking about how AI will replace testers, developers, writers, and so many other roles. Now, with some companies planning to automate up to 70% of QA, the debate feels more urgent than ever.\n\nThis week, I took the time to write a deeper reflection \u2014 not only from my own QA experience, but also inspired by perspectives from leading thinkers like Ramon Lopez de Mantaras Badia and Karen Hao. The result is an article that questions some assumptions we've come to treat as inevitabilities \u2014 especially the idea that 'more automation = better quality.'\n\nIt's a conversation we need to have, not from fear, but from clarity, reason, and authentic experience.\n\nI'd love for you to read it and share your thoughts.\n- What role should AI truly play in Quality Assurance?\n- Are we thinking about efficiency, or are we just avoiding the hard questions?\n- How do we protect critical thinking in a world obsessed with automation?\n\nYour perspective matters, especially now!!",
+        "engagement": 17,
+        "line_count": 15,
+        "language": "English",
+        "tags": [
+            "Quality Assurance",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Over the last few weeks I've been building a QA Intelligence System (QIS) to make senior-level QA behavior repeatable across projects \u2013 for both humans and AI agents.\n\nQIS is a set of three expert QA profiles, each defined as a clear playbook / prompt contract:\nManual Quality Analyst \u2013 turns a single work item into a complete, traceable manual test suite (ready for Azure DevOps or your test tool).\nQuality Automation Architect \u2013 designs a risk-based test strategy and a Playwright UI + API automation plan, grounded in the actual codebase.\nArchitectural PR Reviewer \u2013 reviews PRs with an architecture + quality lens and produces a structured decision plus concrete test recommendations.\nEach profile can be followed by a person, or plugged directly into an AI agent, so it behaves like a consistent, senior QA partner instead of a generic chatbot.\n\nResult: more consistent test depth, clearer automation strategies, and PR reviews that always end with a high-quality, actionable summary.\n\nIf you're a QA leaders and engineering managers interested in scaling quality (and AI) in a controlled way, I broke down the full approach here:\nhttps://lnkd.in/ei62mXpy",
+        "engagement": 31,
+        "line_count": 12,
+        "language": "English",
+        "tags": [
+            "Quality Assurance",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Elon Musk just unveiled Macrohard, a software company built to compete with Microsoft \u2014 but with a twist: it has zero human employees.\n\nThe plan is to let AI handle every stage of software creation:\n\ud83d\udd39 Code generation\n\ud83d\udd39 Product design\n\ud83d\udd39 Testing and QA\n\ud83d\udd39 Full-stack development, end to end\n\nPowered by xAI\u2019s Grok and the Colossus supercomputer in Memphis, Macrohard is Musk\u2019s attempt to prove that AI can operate a full company autonomously \u2014 not just assist engineers, but replace them.\n\nIf it succeeds, the implications are enormous:\n\ud83d\udd39 Entire engineering departments could become obsolete\n\ud83d\udd39 Millions of software jobs at risk worldwide\n\ud83d\udd39 Wealth and control concentrated in the hands of AI owners\n\ud83d\udd39 Competitive pressure forcing every other tech company to automate\n\nThis isn\u2019t a theoretical debate. Musk has already filed the trademark and started building the underlying systems.\n\nWe\u2019re about to find out whether autonomous AI companies are the future of innovation \u2014 or the start of mass technological unemployment.",
+        "engagement": 418,
+        "line_count": 19,
+        "language": "English",
+        "tags": [
+            "Automation",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "QA is the sleeper growth role of the AI era.\n\nEveryone\u2019s concerned about automating SWEs, but look around: more people at startups are shipping code than ever (PMs, ops, GTM).\n\nMore coders + faster shipping + + AI-assisted code = way more surface area to break.\n\nSo naturally, testing becomes the bottleneck.\n\nMy five predictions:\n\n1. QA headcount goes up while SWE stays flat or down (esp at startups)\n\n2. 'QA' stops being a team and becomes a company-wide muscle (e.g. PMs own acceptance tests)\n\n3. Until AI testing frameworks catch up, human-in-the-loop QA is the bottleneck for startups shipping product.\n\n4. Engineers still hate doing QA. That creates a talent arbitrage for folks who love systems, checklists, and closing loops.\n\n5. Companies can asymmetrically hire strong talent by calling it Product Quality Engineering (PQE) or AI Quality Engineering (AIQE). This role can be a blend of automation, evals, and user outcomes, not just manual testing.\n\nWhat do you think?",
+        "engagement": 9,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "Quality Assurance",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Where to Start with AI in QA?\n\nAI is transforming the QA industry just as automation once transformed manual testing.\nMany QA professionals ask the same question: How do I begin integrating AI into my workflow?\n\nUse AI for Test Case Generation\n\nAI can create faster, broader, and deeper test scenarios.\nTools to start with:\n- ChatGPT\n- Testim\n- Mabl\n- TestSigma\n\nApply AI for Regression Analysis\nAI helps identify which tests matter most right now, reducing regression time by 30\u201350%.\nThis is especially valuable for large projects and fast release cycles.\n\nImprove Test Documentation with AI\nAI can rewrite and enhance:\n- acceptance criteria\n- test plans\n- technical documentation\n- This helps teams maintain clarity and consistency.\n\nAI-Assisted Automation\n\nEven without deep coding experience, AI helps:\n- write Selenium/Playwright scripts\n- generate API tests\n- optimize existing automation\n- detect issues in code\n\nStart Small\nYou don't need to transform your entire QA process at once.\nBegin with 1\u20132 AI tools that save time today, and build from there.",
+        "engagement": 54,
+        "line_count": 36,
+        "language": "English",
+        "tags": [
+            "Quality Assurance",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Everything an organisation produces is downstream of its decision-making.\n\nThe focus of most AI projects in organisations today is efficiency gains. While there's a tremendous amount of low-hanging fruit here, the higher-leverage opportunity with AI is improving the quality of our thinking, augmenting how teams frame problems, surface blind spots and make decisions when the world is increasingly noisy and uncertain.\n\nIn a new piece for [i3] Investment Innovation Institute, our chair, Sue Brake, former CIO of Australia\u2019s Future Fund, explores this through the lens of institutional investing. She treats the investment organisation as a 'decision factory', where the true output is the investment decision itself rather than the report or the trade.\n\nShe sets out practical ways AI can support expert teams by:\n- acting as a consistent devil's advocate\n- giving people a private space to explore early, rough ideas without judgement\n- translating between different expert 'languages' across silos\n- helping teams hold more context in view than any one person can manage\n\nSue then looks at what this means for governance: how boards and investment committees can extend existing risk frameworks to include AI teammates, while building the literacy and culture needed to use them well.\n\nAt Dragonfly Thinking, our focus is on human-AI teams that improve decision quality in high-stakes settings. Sue drafted this article with help from our Cognitive Bias and Devil's Advocate agents, using them to challenge and refine her own reasoning.",
+        "engagement": 3,
+        "line_count": 10,
+        "language": "English",
+        "tags": [
+            "Decision Making",
+            "Artificial Intelligence"
+        ]
+    }
+]
