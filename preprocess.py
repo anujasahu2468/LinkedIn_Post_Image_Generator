@@ -1,7 +1,6 @@
 import json
 import sqlite3
 import time
-from langchain_google_genai import ChatGoogleGenerativeAI
 from pydantic import BaseModel, Field
 from llm_helper import llm
 

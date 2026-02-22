@@ -1,6 +1,5 @@
 import sqlite3
 
-
 class FewShotPosts:
     def __init__(self, db_path="linkedin_gen.db"):
         self.db_path = db_path
