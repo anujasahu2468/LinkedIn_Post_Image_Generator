@@ -4,9 +4,11 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 load_dotenv()
 
-# In 2026, 'gemini-3-flash-preview' is the default for high-speed text
+# gemini-2.0-flash is the current stable, fast model for text tasks.
+# It supports structured output via .with_structured_output() and is
+# available globally including through Vertex AI.
 llm = ChatGoogleGenerativeAI(
-    model="gemini-3-flash-preview",
+    model="gemini-2.5-flash",
     google_api_key=os.getenv("GOOGLE_API_KEY"),
-    temperature=0.7
+    temperature=0.7,
 )
